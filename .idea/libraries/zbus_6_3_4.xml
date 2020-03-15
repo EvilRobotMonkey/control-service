@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="zbus-6.3.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/zbus-6.3.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
